@@ -1,0 +1,50 @@
+body {
+    line-height: 1;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #c00d0d;
+    color: #fff;
+    padding: 2rem 0;
+    text-align: center;
+    background-image: url('spidey.jpg');
+    background-size:cover;
+    color: white; 
+
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 50px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+    color: #333;
+    width: 100%;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem 0;
+    background: #333;
+    color: #fff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
